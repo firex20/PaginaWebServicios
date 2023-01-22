@@ -1,4 +1,5 @@
-.bd-placeholder-img {
+/* CSS del template original */
+  .bd-placeholder-img {
     font-size: 1.125rem;
     text-anchor: middle;
     -webkit-user-select: none;
@@ -47,4 +48,17 @@
     text-align: center;
     white-space: nowrap;
     -webkit-overflow-scrolling: touch;
+  }
+
+/* CSS personalizado */
+  .gray-text {
+    color: gray;
+  }
+
+  .link-icon {
+    margin-left: 6px;
+  }
+
+  #nav-icon {
+    margin-right: 5px;
   }

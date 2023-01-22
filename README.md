@@ -2,7 +2,7 @@
   <img src=".github/logo.jpg" width="300" title="Dorime" alt="Dorime">
 </p>
 
-<h3 align="center">Pagina web para servicios</h3>
+<h3 align="center">Propuesta de pagina web para servicios (P.Moldenhauer)</h3>
 
 <p align="center">Si, he usado un template de ejemplo para hacer esto :3</p>
 
@@ -17,16 +17,18 @@ Para probar la pagina, simplemente hay que hacer un "git clone https://github.co
 caso estoy usando el servidor de php de testeo que hemos estado usando en clases de IAW.
 Si quieres poder recompilarlo y ejecutarlo como dice en el proyecto original, tienes que seguir los siguientes pasos:
 
-# Install dependencies
+### Install dependencies
 npm i
 
-# Compile Sass
+### Compile Sass
 npm run css-compile
 
-# Start server and watch Sass
+### Start server and watch Sass
 npm start
 
-### Bootstrap
+Al usar estos pasos, tambien podemos ver los cambios sin tener que recargar la pagina, simplemente al guardar el archivo modificado se actualizara automaticamente.
+
+## Bootstrap
 
 En el proyecto base que he utilizado solo se incluye el contenido necesario para la pagina ya creada, en caso de necesitar más partes de bootstrap que no esten ya 
 inlcuidas hay que ir a "scss/starter.scss" y descomentar las partes que se necesiten. Aunque quizas para esto haya que 
