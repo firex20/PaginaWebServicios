@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=".github/logo.jpg" width="300" height="175" title="Dorime" alt="Dorime">
+  <img src=".github/logo.jpg" width="300" title="Dorime" alt="Dorime">
 </p>
 
 <h3 align="center">Pagina web para servicios</h3>
@@ -33,5 +33,5 @@ inlcuidas hay que ir a "scss/starter.scss" y descomentar las partes que se neces
 
 ## Copyright
 
-Para usar esta pagina debes ser fan del pato paco.
-<img src=".github/paco.jpeg" width="300" alt="El Paco" title="El Paco te roba el tabaco ;)">
+<p>Para usar esta pagina debes ser fan del pato paco.</p>
+<img src=".github/paco.jpeg" width="200" alt="El Paco" title="El Paco te roba el tabaco ;)">
