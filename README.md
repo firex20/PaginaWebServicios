@@ -15,7 +15,7 @@ Esta es mi pagina propuesta para usar en el proyecto de servidor web de servicio
 
 Para probar la pagina, simplemente hay que hacer un "git clone https://github.com/firex20/PaginaWebServicios" y ejecutar cualquier servidor web que queramos. En mi
 caso estoy usando el servidor de php de testeo que hemos estado usando en clases de IAW.
-Si quieres poder recompilarlo y ejecutarlo como dice en el proyecto original, tienes que seguir los siguientes pasos:
+Si quieres poder recompilar bootstrap y ejecutarlo como dice en el proyecto original, tienes que seguir los siguientes pasos: (Hay que tener el gestor npm instalado)
 
 ### Install dependencies
 npm i
@@ -27,6 +27,10 @@ npm run css-compile
 npm start
 
 Al usar estos pasos, tambien podemos ver los cambios sin tener que recargar la pagina, simplemente al guardar el archivo modificado se actualizara automaticamente.
+
+## Añadirlo al servidor web
+
+Para añadirlo a un servidor web como apache o nginx simplemente se copia toda la carpeta del proyecto y usamos como base de nuestro virtual host esa misma carpeta
 
 ## Bootstrap
 
