@@ -9,6 +9,7 @@
 ## Descripción
 
 Esta es mi pagina propuesta para usar en el proyecto de servidor web de servicios, he usado el siguiente template de boostrap https://getbootstrap.com/docs/4.0/examples/album/ y lo he modificado para que sea la pagina de un cine. No le he añadido más javascript que el que el paquete que viene por defecto con boostrap.
+Este es el link de la pagina hosteada en mi cloud9 de amazon (Cuando este abierto el lab): https://www.lab.pmolden.es
 
 
 ## Como probarlo
